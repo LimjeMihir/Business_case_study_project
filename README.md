@@ -77,8 +77,8 @@ Thanks to publicly available dummy data and educational sources for enabling thi
 ## 📫 Contact
 
 **Mihir Limje**  
-📧 [Add Your Email]  
-🔗 [LinkedIn/GitHub Links if available]
+📧 mihirlimje29@gmail.com  
+
 
 
 
