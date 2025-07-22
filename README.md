@@ -3,7 +3,8 @@
 A comprehensive data analysis and visualization project aimed at uncovering key sales insights using **SQL**, **Power BI**, and **Excel**. This project helps stakeholders make informed, data-driven decisions by highlighting customer behavior, product performance, revenue trends, and more.
 
 ---
-  
+<img src="Sales_dashboard01.png" height=1000px width="1450px"> 
+
 ## 📁 Project Files
 
 | File Name                        | Description                                           |
